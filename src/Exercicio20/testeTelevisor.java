@@ -7,7 +7,7 @@ public class testeTelevisor {
 		
 		televisor.setLigado(true);
 		televisor.setCanal(02);
-		televisor.setVolume(10);
+		televisor.setVolume(09);
 		
 		televisor.imprimir();
 
